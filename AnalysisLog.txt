@@ -1,0 +1,26 @@
+04-Apr-2023 11:25:07: Starting analysis of /Users/somtookafor/Downloads/Model/TestFileNaN.nc
+04-Apr-2023 11:25:07: Success processing data hour 1
+04-Apr-2023 11:25:07: Success processing data hour 2
+04-Apr-2023 11:25:08: Success processing data hour 3
+04-Apr-2023 11:25:08: Success processing data hour 4
+04-Apr-2023 11:25:08: Success processing data hour 5
+04-Apr-2023 11:25:08: Success processing data hour 6
+04-Apr-2023 11:25:09: Success processing data hour 7
+04-Apr-2023 11:25:09: Success processing data hour 8
+04-Apr-2023 11:25:09: Success processing data hour 9
+04-Apr-2023 11:25:09: Success processing data hour 10
+04-Apr-2023 11:25:09: Success processing data hour 11
+04-Apr-2023 11:25:10: NaN Error processing data hour 12
+04-Apr-2023 11:25:10: Success processing data hour 13
+04-Apr-2023 11:25:10: Success processing data hour 14
+04-Apr-2023 11:25:10: Success processing data hour 15
+04-Apr-2023 11:25:10: Success processing data hour 16
+04-Apr-2023 11:25:10: Success processing data hour 17
+04-Apr-2023 11:25:10: Success processing data hour 18
+04-Apr-2023 11:25:11: Success processing data hour 19
+04-Apr-2023 11:25:11: Success processing data hour 20
+04-Apr-2023 11:25:11: Success processing data hour 21
+04-Apr-2023 11:25:11: Success processing data hour 22
+04-Apr-2023 11:25:11: Success processing data hour 23
+04-Apr-2023 11:25:11: Success processing data hour 24
+04-Apr-2023 11:25:11: Success processing data hour 25

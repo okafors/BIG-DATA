@@ -1,0 +1,16 @@
+clear all
+close all 
+
+FileName = '../Model/o3_surface_20180701000000.nc';
+
+Contents = ncinfo(FileName);
+StartHour = 1;
+EndHour = 5;
+StartSet= 1;
+EndSet = 250;
+NumWorkers = 4;
+ClearLog = true;
+
+%SequentialProcessingFunction(FileName, StartHour, EndHour, StartSet, EndSet);
+ParallelProcessingFunction(FileName, StartHour, EndHour, StartSet, EndSet, NumWorkers);
+GraphsFunction(ParallelProcessingFunction, EndSet) 

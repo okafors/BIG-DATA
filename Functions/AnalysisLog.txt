@@ -1,0 +1,26 @@
+18-Apr-2022 17:38:36: Starting analysis of ../Model/o3_surface_20180701000000.nc
+18-Apr-2022 17:38:36: Success processing data hour 1
+18-Apr-2022 17:38:36: Success processing data hour 2
+18-Apr-2022 17:38:36: Success processing data hour 3
+18-Apr-2022 17:38:36: Success processing data hour 4
+18-Apr-2022 17:38:36: Success processing data hour 5
+18-Apr-2022 17:38:36: Success processing data hour 6
+18-Apr-2022 17:38:37: Success processing data hour 7
+18-Apr-2022 17:38:37: Success processing data hour 8
+18-Apr-2022 17:38:37: Success processing data hour 9
+18-Apr-2022 17:38:37: Success processing data hour 10
+18-Apr-2022 17:38:37: Success processing data hour 11
+18-Apr-2022 17:38:37: Success processing data hour 12
+18-Apr-2022 17:38:37: Success processing data hour 13
+18-Apr-2022 17:38:37: Success processing data hour 14
+18-Apr-2022 17:38:37: Success processing data hour 15
+18-Apr-2022 17:38:37: Success processing data hour 16
+18-Apr-2022 17:38:37: Success processing data hour 17
+18-Apr-2022 17:38:37: Success processing data hour 18
+18-Apr-2022 17:38:37: Success processing data hour 19
+18-Apr-2022 17:38:37: Success processing data hour 20
+18-Apr-2022 17:38:37: Success processing data hour 21
+18-Apr-2022 17:38:37: Success processing data hour 22
+18-Apr-2022 17:38:37: Success processing data hour 23
+18-Apr-2022 17:38:37: Success processing data hour 24
+18-Apr-2022 17:38:37: Success processing data hour 25
